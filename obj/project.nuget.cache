@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cWjRpDN2VkAIkCL5y8W3KYEyNsHG2rFgrWhqaTUkPCc2tmfxkr4Afkk5/9pAnqVvh8PEgq/W2GqZWOLsHSY8ew==",
+  "success": true,
+  "projectFilePath": "C:\\WorkshopVSC\\WorkshopVSC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bergman.william\\.nuget\\packages\\raylib-cs\\3.7.0\\raylib-cs.3.7.0.nupkg.sha512",
+    "C:\\Users\\bergman.william\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

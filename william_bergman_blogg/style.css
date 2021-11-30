@@ -1,0 +1,29 @@
+/*body{
+    /*background-color:white;
+}
+
+.backgrounds {
+
+    height: 100%;
+    width: 100%;
+    color: white;
+}
+*/
+    
+
+.box {
+    background-color: navy;
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    margin-top: 3%;
+    /*color: gold;*/
+    font-size: xx-large;
+    text-size-adjust: 50;
+    border: gold;
+    border-radius: 10%;
+    border-style: solid;
+    border-width: 20px;
+    text-align: center;
+    border-color: gold;
+}
